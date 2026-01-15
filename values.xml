@@ -1,0 +1,8 @@
+<resources>
+    <style name="ThemeOverlay.AppTheme.MediumContrast">
+        <item name="colorPrimary">@color/md_theme_primary_mediumContrast</item>
+    </style>
+    <style name="ThemeOverlay.AppTheme.HighContrast">
+        <item name="colorPrimary">@color/md_theme_primary_highContrast</item>
+    </style>
+</resources>
